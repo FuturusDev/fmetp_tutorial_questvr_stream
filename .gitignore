@@ -13,6 +13,8 @@
 /[Aa]ssets/FMDemo/
 /[Uu]serSettings/Layouts/
 
+.utmp/
+
 *.DS_Store
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
