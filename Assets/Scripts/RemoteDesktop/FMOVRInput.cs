@@ -17,7 +17,7 @@ namespace FMSolution
         [SerializeField] private OVRInput.Controller controller = OVRInput.Controller.RTouch;
         [SerializeField] private OVRInput.Button button = OVRInput.Button.PrimaryIndexTrigger;
 
-        public UnityEventInt OnInputGetKeyEvent = new UnityEventInt();
+        //public UnityEventInt OnInputGetKeyEvent = new UnityEventInt();
         public UnityEvent OnInputClickEvent = new UnityEvent();
         private float inputDownTime = 0f;
         private float currentTime = 0f;
@@ -55,7 +55,7 @@ namespace FMSolution
             if (eventInt != _eventInt || _eventInt == 3)
             {
                 eventInt = _eventInt;
-                OnInputGetKeyEvent.Invoke(eventInt);
+                //OnInputGetKeyEvent.Invoke(eventInt);
             }
 
             if (onClicked)
@@ -68,7 +68,7 @@ namespace FMSolution
         private void OnDisable()
         {
             eventInt = 0;
-            OnInputGetKeyEvent.Invoke(eventInt);
+            //OnInputGetKeyEvent.Invoke(eventInt);
         }
     }
 }
