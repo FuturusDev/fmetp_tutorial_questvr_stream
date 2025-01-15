@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 014d3c849aa1345fc89b4858dff6dbcd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Others/Demo_EnergySaving_MobileWebcamSettings.lighting
+  uploadId: 713898

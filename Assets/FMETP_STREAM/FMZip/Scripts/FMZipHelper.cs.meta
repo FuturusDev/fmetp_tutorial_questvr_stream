@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d4ece04b40bf42fa8eb24532504967c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMZip/Scripts/FMZipHelper.cs
+  uploadId: 713898

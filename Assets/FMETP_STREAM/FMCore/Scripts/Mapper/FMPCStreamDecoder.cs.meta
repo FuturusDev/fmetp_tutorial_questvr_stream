@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f7ac555f4d0e404f9a0b3e02fe9b3bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scripts/Mapper/FMPCStreamDecoder.cs
+  uploadId: 713898

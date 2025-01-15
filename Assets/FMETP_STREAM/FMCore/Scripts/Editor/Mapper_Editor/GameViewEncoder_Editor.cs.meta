@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c21e65f8bd6d246c3a90450181d04f37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scripts/Editor/Mapper_Editor/GameViewEncoder_Editor.cs
+  uploadId: 713898

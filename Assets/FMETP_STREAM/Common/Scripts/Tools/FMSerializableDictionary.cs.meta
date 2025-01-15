@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a9846f16db11248328ca8ac6dfc08fee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/Common/Scripts/Tools/FMSerializableDictionary.cs
+  uploadId: 713898

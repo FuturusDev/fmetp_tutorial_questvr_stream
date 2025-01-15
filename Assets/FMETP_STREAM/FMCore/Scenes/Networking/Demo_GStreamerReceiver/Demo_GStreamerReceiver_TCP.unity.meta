@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8f6e8f95680d4e10a03f7fb7d8f8401
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_GStreamerReceiver/Demo_GStreamerReceiver_TCP.unity
+  uploadId: 713898

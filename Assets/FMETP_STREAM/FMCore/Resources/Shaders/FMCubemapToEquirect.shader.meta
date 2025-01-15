@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d9cdde4a4997d467b99c1360420f5ce1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Resources/Shaders/FMCubemapToEquirect.shader
+  uploadId: 713898

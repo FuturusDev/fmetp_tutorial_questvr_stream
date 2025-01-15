@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c542cbe289503441aa8572a178ece3db
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Plugins/LICENSE.txt
+  uploadId: 713898

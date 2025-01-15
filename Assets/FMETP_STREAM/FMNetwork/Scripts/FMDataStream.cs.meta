@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af47e063bc5e04d098bed33e04930826
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMNetwork/Scripts/FMDataStream.cs
+  uploadId: 713898

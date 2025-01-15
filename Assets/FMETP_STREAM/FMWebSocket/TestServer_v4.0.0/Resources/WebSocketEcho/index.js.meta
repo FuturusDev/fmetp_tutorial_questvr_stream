@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f371fa20539514565a1ef146d4974818
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMWebSocket/TestServer_v4.0.0/Resources/WebSocketEcho/index.js
+  uploadId: 713898

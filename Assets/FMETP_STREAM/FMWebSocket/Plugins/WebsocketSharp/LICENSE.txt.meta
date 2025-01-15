@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 987b3557dd51b46c6bef29810aec25ee
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMWebSocket/Plugins/WebsocketSharp/LICENSE.txt
+  uploadId: 713898

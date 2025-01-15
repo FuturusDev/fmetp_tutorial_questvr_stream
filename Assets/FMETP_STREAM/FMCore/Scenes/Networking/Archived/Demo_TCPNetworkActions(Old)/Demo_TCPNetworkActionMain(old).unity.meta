@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7a249d854d47460d8472c626c768eb3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Archived/Demo_TCPNetworkActions(Old)/Demo_TCPNetworkActionMain(old).unity
+  uploadId: 713898

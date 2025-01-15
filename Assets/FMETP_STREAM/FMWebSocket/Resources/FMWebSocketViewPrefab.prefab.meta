@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 965e87401e2244be68d34503133aee66
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMWebSocket/Resources/FMWebSocketViewPrefab.prefab
+  uploadId: 713898

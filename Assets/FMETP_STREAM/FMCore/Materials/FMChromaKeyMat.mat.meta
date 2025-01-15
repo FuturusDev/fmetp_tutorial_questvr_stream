@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 225e6379ad25348c2a14cf1b512913f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Materials/FMChromaKeyMat.mat
+  uploadId: 713898

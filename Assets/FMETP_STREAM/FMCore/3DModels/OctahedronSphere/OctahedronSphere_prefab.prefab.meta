@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4468fecda2d824544b9fdc5820418d7d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/3DModels/OctahedronSphere/OctahedronSphere_prefab.prefab
+  uploadId: 713898

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc716520b8c7e4928866f9fd79a8c868
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMNetwork/Scenes/Demo_FMNetworkBasic.unity
+  uploadId: 713898

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 641c9101c9b464494ac5ca79d1356623
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Resources/Shaders/FMETPMixedReality.shader
+  uploadId: 713898

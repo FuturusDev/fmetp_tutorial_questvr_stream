@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53c275ce58c104a6a80e0f8dc8f648bf
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Archived/Demo_TCPGameViewStreaming(Old)/Demo_TCPGameViewStreamingServer(old).unity
+  uploadId: 713898

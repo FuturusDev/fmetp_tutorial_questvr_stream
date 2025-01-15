@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aad003455342f4d2f8e92e99459ed97f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/3DModels/OctahedronSphere/Materials/OctahedronSphereMat.mat
+  uploadId: 713898

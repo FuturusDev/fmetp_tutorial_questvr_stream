@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65d3238e9a1844f13b34601965237e2c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_FMWebSocketStreaming/Demo_FMWebSocketStreaming.unity
+  uploadId: 713898

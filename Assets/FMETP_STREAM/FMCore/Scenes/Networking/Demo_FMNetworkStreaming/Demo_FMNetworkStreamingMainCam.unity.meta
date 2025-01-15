@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ddc271b2d21443a6855b968b60b93f9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_FMNetworkStreaming/Demo_FMNetworkStreamingMainCam.unity
+  uploadId: 713898

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f35eb35aa367466aaa0f960c3b3bd3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scripts/Features/DemoObjectAnimation.cs
+  uploadId: 713898

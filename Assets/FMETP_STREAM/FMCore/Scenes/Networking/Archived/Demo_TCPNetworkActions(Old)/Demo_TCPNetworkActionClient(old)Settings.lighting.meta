@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6aa33882435a476e9906bd0365b40b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Archived/Demo_TCPNetworkActions(Old)/Demo_TCPNetworkActionClient(old)Settings.lighting
+  uploadId: 713898

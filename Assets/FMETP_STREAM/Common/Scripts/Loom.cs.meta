@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e2caabe9699b4386a18e32e838cb6d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/Common/Scripts/Loom.cs
+  uploadId: 713898

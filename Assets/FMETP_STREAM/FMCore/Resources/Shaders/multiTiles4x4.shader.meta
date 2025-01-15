@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d1ef4db829e714ed3a34492ce5796382
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Resources/Shaders/multiTiles4x4.shader
+  uploadId: 713898

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6052c8f6a89494176b37c6ae23d7646a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282061
+  packageName: FMETP STREAM 4.0
+  packageVersion: 4.071
+  assetPath: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_MJPEGDataStream/Demo_MJPEGDataStream.unity
+  uploadId: 713898
